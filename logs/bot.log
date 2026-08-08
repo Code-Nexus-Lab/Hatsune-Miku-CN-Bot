@@ -1,0 +1,54 @@
+2026-08-08 06:11:39,957 | INFO     | discord.client | logging in using static token
+2026-08-08 06:11:42,045 | INFO     | __main__ | Loaded 1 extension(s).
+2026-08-08 06:11:43,592 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 3f5a8fd32033b839985ed5d46596905d).
+2026-08-08 06:11:45,649 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 06:12:47,179 | INFO     | __main__ | Command help used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:13:04,274 | INFO     | __main__ | Command ping used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:13:23,947 | INFO     | __main__ | Command about used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:34:49,328 | INFO     | discord.client | logging in using static token
+2026-08-08 06:34:51,188 | INFO     | __main__ | Loaded 3 extension(s).
+2026-08-08 06:34:53,211 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: be962b0e6ce68ce5bf06961bfbd723b6).
+2026-08-08 06:34:55,247 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 06:35:34,159 | INFO     | __main__ | Command rank used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:36:02,699 | INFO     | __main__ | Command rank used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:36:16,271 | INFO     | __main__ | Command leaderboard used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 06:48:00,349 | INFO     | discord.client | logging in using static token
+2026-08-08 06:48:02,028 | INFO     | __main__ | Loaded 4 extension(s).
+2026-08-08 06:48:03,650 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 9e713940b92c707f431b1c9010736a08).
+2026-08-08 06:48:05,716 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 07:02:26,654 | INFO     | discord.client | logging in using static token
+2026-08-08 07:02:32,280 | INFO     | __main__ | Loaded 5 extension(s).
+2026-08-08 07:02:33,258 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: a213f75e5ce85f35614154c04d409d4c).
+2026-08-08 07:02:35,294 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 07:03:06,830 | INFO     | discord.voice_state | Connecting to voice...
+2026-08-08 07:03:06,832 | INFO     | discord.voice_state | Starting voice handshake... (connection attempt 1)
+2026-08-08 07:03:07,792 | INFO     | discord.voice_state | Voice handshake complete. Endpoint found: c-bom08-08936fe6.discord.media:2087
+2026-08-08 07:03:08,261 | INFO     | discord.voice_state | Voice connection complete.
+2026-08-08 07:03:14,288 | INFO     | __main__ | Command play used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:07:05,701 | INFO     | discord.player | ffmpeg process 18512 successfully terminated with return code of 0.
+2026-08-08 07:16:03,442 | INFO     | discord.voice_state | The voice handshake is being terminated for Channel ID 1535534624019578982 (Guild ID 1535523403266662501)
+2026-08-08 07:16:35,761 | INFO     | discord.client | logging in using static token
+2026-08-08 07:16:37,851 | INFO     | __main__ | Loaded 6 extension(s).
+2026-08-08 07:16:39,543 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: a1a1fe4db55a94d5280f581c5c31129e).
+2026-08-08 07:16:41,570 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 07:17:04,458 | INFO     | __main__ | Command challenge create used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:17:46,437 | INFO     | __main__ | Command challenge channel used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:17:58,980 | INFO     | __main__ | Command challenge create used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:19:09,526 | INFO     | __main__ | Command challenge list used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:19:31,473 | INFO     | __main__ | Command challenge approve used by 1312669588898713659 in 1535523403266662501.
+2026-08-08 07:25:32,923 | INFO     | discord.client | logging in using static token
+2026-08-08 07:25:34,803 | INFO     | __main__ | Loaded 7 extension(s).
+2026-08-08 07:25:36,152 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: ebfcc4e4badd1004cecefc62682a7af8).
+2026-08-08 07:25:38,163 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-08 07:25:43,799 | INFO     | __main__ | Command setleaderboardchannel used by 1312669588898713659 in 1535523403266662501.
+2026-08-09 02:24:24,748 | INFO     | discord.client | logging in using static token
+2026-08-09 02:24:26,949 | INFO     | __main__ | Loaded 7 extension(s).
+2026-08-09 02:24:28,373 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 6efb7ec787798bfe69fa2982afb7ff18).
+2026-08-09 02:24:30,389 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-09 02:26:04,449 | INFO     | __main__ | Command setleaderboardchannel used by 1312669588898713659 in 1535523403266662501.
+2026-08-09 02:46:03,935 | INFO     | discord.client | logging in using static token
+2026-08-09 02:46:06,960 | INFO     | __main__ | Loaded 8 extension(s).
+2026-08-09 02:46:08,333 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 1127b85c2601652ae3258cc633544151).
+2026-08-09 02:46:10,354 | INFO     | __main__ | Logged in as Hatsune Miku(Code Nexus)#7944 (1535525106657525841).
+2026-08-09 03:02:37,911 | INFO     | __main__ | Command rank used by 1353038048773935124 in 1535523403266662501.
+2026-08-09 03:03:29,277 | INFO     | __main__ | Command challenge used by 1353038048773935124 in 1535523403266662501.
